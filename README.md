@@ -1,16 +1,19 @@
 ## Hi there 👋
 
-<!--
-**Adiihub/Adiihub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Aditi, a Computer Science and Engineering student at Geeta University, currently maintaining a CGPA of 9.4. My passion for technology and commitment to excellence drive me to tackle challenging projects and contribute meaningfully to the tech community.
 
-Here are some ideas to get you started:
+My Expertise
+I have a diverse skill set, including:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Programming Languages: HTML, CSS, C, C++, Python, JavaScript, DSA
+Technologies: Linux, SQL, GitHub
+
+Hands-On Experience
+Cyber Security Internship: Hacktify
+Python for Data Science Training: IIT Kanpur
+
+Projects
+Bank Management System: Developed using Python and SQL.
+Bug Tracking System: Implemented using Python and SQL.
+
+I am eager to explore new opportunities and contribute to impactful projects in the tech industry. Please feel free to explore my repositories and get in touch for collaboration or inquiries.
