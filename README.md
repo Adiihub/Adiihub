@@ -11,7 +11,6 @@ My Expertise
 
 Hands-On Experience
 Cyber Security Internship: Hacktify
-
 Python for Data Science Training: IIT Kanpur
 
 Projects
