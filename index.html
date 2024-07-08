@@ -1,0 +1,202 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>fitness project</title>
+    <link rel="stylesheet" href="style.css">
+    
+</head>
+<style>
+    body {
+        margin: 0px;
+        padding: 0px;
+        background: url('img/img.jpg');
+       
+    }
+
+    .left {
+        position: absolute;
+        left: 50px;
+        top: 20px;
+        display: inline-block;
+        /*border: 2px red;*/
+    }
+
+    .left img {
+        width: 140px;
+        border: 2px solid black;
+        border-radius: 15px;
+    }
+
+    .left div {
+        text-align: center;
+        font-size: 25px;
+        line-height: 25px;
+        font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+        font-style: italic;
+    }
+
+    .mid {
+        display: block;
+        width: 50%;
+        margin: 25px auto;
+        /* border: 2px solid black;*/
+    }
+
+    .right {
+        position: absolute;
+        right: 38px;
+        top: 30px;
+        display: inline-block;
+    }
+
+    .navbar {
+        display: inline-block;
+    }
+
+    .navbar li {
+        display: inline-block;
+        font-size: 25px;
+    }
+
+    .navbar li a {
+        color: rgb(15, 5, 32);
+        text-decoration: none;
+        padding: 30px 20px;
+
+    }
+
+    .navbar li a:hover,
+    .navbar li a.active {
+        text-decoration: underline;
+        color: grey;
+    }
+
+    .btn {
+        background-color: rgb(54, 3, 18);
+        margin: 6px;
+        padding: 4px;
+        font-size: 20px;
+        color: white;
+        /*border: 2px solid grey;*/
+        cursor: pointer;
+        border-radius: 8px;
+    }
+
+    .btn:hover {
+        background-color: rgb(53, 20, 20);
+
+    }
+
+    .container {
+        border: 2px solid rgb(65, 1, 1);
+        margin: 180px;
+        padding: 50px;
+        width: 40%;
+        border-radius: 16px;
+    }
+
+    .form-group input {
+        font-size: 25px;
+        text-align: center;
+        display: block;
+        width: 410px;
+        padding: 5px;
+        margin: 6px auto;
+        border: 2px solid black;
+        border-radius: 8px;
+
+    }
+
+    .container h1 {
+        text-align: center;
+        margin: 2px;
+    }
+
+    .container button {
+        display: block;
+        margin: 20px auto;
+        padding: 5px;
+        width: 78%;
+        font-size: 24px;
+        ;
+    }
+
+    .rig {
+        display: inline-block;
+        position: absolute;
+        top: 960px;
+        left: 850px;
+        font-size: 18px;
+        text-decoration: underline;
+        color: white;
+    }
+</style>
+
+<body>
+    <header class="header">
+        <!--left box for logo-->
+        <div class="left">
+            <img src="img/logo.jpg" alt="random images">
+            <div>Aditii Fitness</div>
+        </div>
+
+        <!--mid for navbar-->
+        <div class="mid">
+
+            <ul class="navbar">
+                <li><a href="#" class="active">Home</a></li>
+                <li><a href="#">About Us</a></li>
+                <li><a href="#">Fitness Calculator</a></li>
+                <li><a href="#">Contact Us</a></li>
+            </ul>
+        </div>
+
+        <!--right box for buttons-->
+        <div class="right">
+            <button class="btn">Call us Now</button>
+            <button class="btn">Email us</button>
+        </div>
+
+
+    </header>
+    <div class="container">
+        <h1>Build YOUR BODY<br>Transform YOUR LIFE<br>Join NOW</h1>
+
+        <form action="noaction">
+
+            <div class="form-group">
+                <input type="text" placeholder="Enter Your Name">
+            </div>
+            <div class="form-group">
+                <input type="text" placeholder="Enter Your Age">
+            </div>
+            <div class="form-group">
+                <input type="text" placeholder="Enter Your Gender">
+            </div>
+            <div class="form-group">
+                <input type="text" placeholder="Enter Your Locality">
+            </div>
+            <div class="form-group">
+                <input type="text" placeholder="Enter Your Place">
+            </div>
+            <div class="form-group">
+                <input type="email" placeholder="Enter Your Email">
+            </div>
+            <div class="form-group">
+                <input type="text" placeholder="Enter Your Phone num">
+            </div>
+
+            <button class="btn">Submit</button>
+        </form>
+        <div class="rig">
+            <h2>Thank You for Visiting Our Websites</h2>
+        </div>
+
+    </div>
+</body>
+
+</html>
