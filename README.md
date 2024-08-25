@@ -4,6 +4,7 @@ I'm Aditi, a Computer Science and Engineering student at Geeta University, curre
 
 My Expertise
   * Python Programming
+  * Backend Development
   * Web Development
   * Data Structures & Algorithms
   * Linux, SQL
