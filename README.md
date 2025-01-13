@@ -6,7 +6,6 @@ My Expertise
   * Backend Development
   * Frontend Development
   * Python Programming
-  * Web Development
   * Data Structures & Algorithms
   * Linux, SQL
   * Project Management
