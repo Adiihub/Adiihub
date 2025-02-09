@@ -10,7 +10,7 @@ My Expertise
   * Linux, SQL
   * Project Management
 
-###Hands-On Experience
+### Hands-On Experience
 
 Web Developement Internship: Naai India
 Cyber Security Internship: Hacktify
