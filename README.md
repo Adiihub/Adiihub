@@ -10,12 +10,15 @@ My Expertise
   * Linux, SQL
   * Project Management
 
-Hands-On Experience
+###Hands-On Experience
+
 Web Developement Internship: Naai India
 Cyber Security Internship: Hacktify
 Python for Data Science Training: IIT Kanpur
 
+
 Projects
+
 ZaikaBita: Created a FullStack Foor Ordering Website.
 Bank Management System: Developed using Python and SQL.
 Bug Tracking System: Implemented using Python and SQL.
