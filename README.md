@@ -2,7 +2,7 @@
 
 I'm Aditi, a Computer Science and Engineering student at Geeta University, currently maintaining a CGPA of 9.4. My passion for technology and commitment to excellence drive me to tackle challenging projects and contribute meaningfully to the tech community.
 
-### My Expertise
+## My Expertise
   * Backend Development
   * Frontend Development
   * Python Programming
