@@ -21,7 +21,7 @@ Python for Data Science Training: IIT Kanpur </br>
 ### Projects
 
 👩🏻‍💻 ZaikaBita: Created a FullStack Foor Ordering Website. </br>
-🖥️ Bank Management System: Developed using Python and SQL. </br>
+🖥️ Bank Management System: Developed using C++. </br>
 ✔️  Bug Tracking System: Implemented using Python and SQL. </br>
 
 
