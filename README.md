@@ -1,5 +1,5 @@
 # Hi there!! 👋
-I'm Aditi, 3rd year B.Tech student in Computer Science and Engineering.  
+I'm Aditi, final year B.Tech student in Computer Science and Engineering.  
 
 ## My Expertise
   * Backend & Frontend Development
