@@ -11,6 +11,7 @@ I'm Aditi, final year B.Tech student in Computer Science and Engineering.
 
 
 ### Hands-On Experience
+####Member of Technical Staff Intern: Pronnel</br>
 👩🏻‍💻Web Developement Internship: Naai India </br>
 🖥️Cyber Security Internship: Hacktify </br>
 ✔️Python for Data Science Training: IIT Kanpur </br>
